@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Sceience
 - 💞️ I’m looking to collaborate: on Web Development
 - 📫 How to reach me: email Network on Social Media and Share Your GitHub Profile
-- 😄 Pronouns: He/She
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Bananas are berries, but strawberries are not
 
 <!---
